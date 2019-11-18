@@ -10,7 +10,7 @@ Initialized project from:
 
 > react-native init YTTutorial2019
 
-> cd projectNameHere
+> cd YTTutorial2019
 
 > react-native run-android
 
